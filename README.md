@@ -1,5 +1,5 @@
-# Idek1
+# EconomySim
 
 A simple side project intended to simulate the law of supply and demand. 
 
-Download the current prototype on the releases page.
+This is a command line application. Download the current prototype on the releases page.
